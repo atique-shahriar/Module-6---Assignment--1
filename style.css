@@ -239,3 +239,21 @@ button {
   width: 270px;
   padding-top: 100px;
 }
+
+.portfolio-section{
+  width: 85%;
+  margin: 120px auto;
+}
+.portfolio-image{
+  display: flex;
+  justify-content: space-between;
+  border-radius: 16px;
+}
+
+.portfolio-content{
+  margin-top: 48px;
+}
+
+.portfolio-image{
+  margin-bottom: 160px;
+}
