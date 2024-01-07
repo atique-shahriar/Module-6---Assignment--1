@@ -250,14 +250,16 @@ button {
   display: flex;
   justify-content: space-between;
   border-radius: 16px;
+  margin-bottom: 160px;
+}
+
+.portfolio-image img:hover{
+border: 10px solid #F00;
+border-radius: 17px;
 }
 
 .portfolio-content {
   margin-top: 48px;
-}
-
-.portfolio-image {
-  margin-bottom: 160px;
 }
 
 .subscribe-section {
