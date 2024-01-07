@@ -318,3 +318,56 @@ button {
   font-size: 20px;
   font-weight: 600;
 }
+
+
+footer {
+  background-color: #070211;
+  margin-top: 120px;
+}
+
+.footer-section {
+  width: 85%;
+  margin: 0px auto;
+  color: #FFF;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 40px;
+}
+
+.address-content {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  display: flex;
+  gap: 900px;
+}
+
+.address-content ul li {
+  list-style: none;
+}
+
+.address-content i {
+  margin-right: 20px;
+}
+
+.footer-section hr {
+  background: rgba(255, 255, 255, 0.15);
+  height: 1px;
+}
+
+.icon-content {
+  padding: 46px 0;
+  text-align: center;
+
+}
+
+.icon-content img {
+  margin: 0 20px;
+}
+
+.copyright-section {
+  padding-top: 50px;
+  padding-bottom: 120px;
+  display: flex;
+  justify-content: space-between;
+}
