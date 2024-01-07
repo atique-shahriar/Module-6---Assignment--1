@@ -40,3 +40,40 @@
   font-weight: 900;
   line-height: 95px;
 }
+
+.happy-section {
+  text-align: center;
+  margin-top: 120px;
+}
+
+.happy-title {
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 88px;
+  font-weight: 700;
+}
+
+.happy-subtitle {
+  color: #F00;
+  text-align: center;
+  font-family: Inter;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-top: 48px;
+  margin-bottom: 16px;
+}
+
+.happy-cat {
+  color: #070211;
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+  margin-bottom: 48px;
+}
+
+.happy-image{
+  margin-bottom: 120px;
+}
