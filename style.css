@@ -241,6 +241,81 @@ button {
   padding-top: 100px;
 }
 
+
+/* Holidays Section */
+
+.holiday-section {
+  width: 85%;
+  margin: 120px auto;
+  text-align: center;
+}
+
+.holiday-title {
+  color: #070211;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.holiday-subtitle {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  margin-top: 16px;
+  margin-bottom: 28px;
+}
+
+.holiday-holidays {
+  font-family: Merriweather;
+  font-size: 72px;
+  font-weight: 900;
+  color: #F00;
+}
+
+.holiday-content {
+  color: rgba(7, 2, 17, 0.60);
+  text-align: center;
+  font-family: Inter;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 32px;
+}
+
+.holiday-image-content {
+  margin-top: 30px;
+  background-image: url("resources/Rectangle 1.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 500px;
+}
+
+
+.holiday-image-content .discount {
+  margin-left: 750px;
+  margin-top: 90px;
+}
+
+.holiday-image-content2 {
+  background-image: url("resources/Rectangle 2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+  border-top-right-radius: 0px;
+  height: 200px;
+  margin-top: -140px;
+}
+.holiday-box{
+  text-align: left;
+  margin-top: -330px;
+  margin-left: 100px;
+}
+ 
+.holiday-box img{
+  width: 500px;
+}
+
+
 .portfolio-section {
   width: 85%;
   margin: 120px auto;
@@ -253,9 +328,9 @@ button {
   margin-bottom: 160px;
 }
 
-.portfolio-image img:hover{
-border: 10px solid #F00;
-border-radius: 17px;
+.portfolio-image img:hover {
+  border: 10px solid #F00;
+  border-radius: 17px;
 }
 
 .portfolio-content {
