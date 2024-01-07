@@ -173,3 +173,69 @@ button {
   padding: 16px 32px;
   border: none;
 }
+
+.offer-section {
+  width: 85%;
+  margin: 200px auto;
+}
+
+.offer-container {
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.offer-title {
+  color: #F00;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.offer-subtitle {
+  color: #070211;
+  font-family: Merriweather;
+  font-size: 48px;
+  font-weight: 900;
+  margin-top: 16px;
+  margin-bottom: 22px;
+
+}
+
+.offer-description {
+  color: rgba(7, 2, 17, 0.60);
+  font-family: Inter;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.offer-description2{
+  margin-top: 16px;
+  margin-bottom: 22px;
+}
+
+.offer-round-img {
+  border: 30px solid white;
+  outline: 20px solid red;
+  border-radius: 50%;
+}
+
+.offer-2024 {
+  color: #F00;
+  font-family: Inter;
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.offer-col1{
+  width: 400px;
+  padding-top: 60px;
+}
+
+.offer-col2{
+  width: 470px;
+}
+.offer-col3{
+  width: 270px;
+  padding-top: 100px;
+}
