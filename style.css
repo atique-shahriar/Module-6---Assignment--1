@@ -20,7 +20,7 @@
 
 .header-container {
   text-align: center;
-  padding: 280px 400px;
+  padding: 280px 300px;
 }
 
 
@@ -176,7 +176,7 @@ button {
 
 .offer-section {
   width: 85%;
-  margin: 200px auto;
+  margin: 250px auto;
 }
 
 .offer-container {
@@ -292,7 +292,7 @@ button {
 
 
 .holiday-image-content .discount {
-  margin-left: 750px;
+  margin-left: 440px;
   margin-top: 90px;
 }
 
@@ -305,13 +305,14 @@ button {
   height: 200px;
   margin-top: -140px;
 }
-.holiday-box{
+
+.holiday-box {
   text-align: left;
   margin-top: -330px;
   margin-left: 100px;
 }
- 
-.holiday-box img{
+
+.holiday-box img {
   width: 500px;
 }
 
@@ -325,7 +326,7 @@ button {
   display: flex;
   justify-content: space-between;
   border-radius: 16px;
-  margin-bottom: 160px;
+  margin-bottom: 10px;
 }
 
 .portfolio-image img:hover {
@@ -416,7 +417,7 @@ footer {
   padding-top: 120px;
   padding-bottom: 90px;
   display: flex;
-  gap: 900px;
+  justify-content: space-between;
 }
 
 .address-content ul li {
